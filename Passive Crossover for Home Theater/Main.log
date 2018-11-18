@@ -1,0 +1,21 @@
+Circuit: * D:\Faculdade\Semestre6\Sinais_e_Sistemas\FinalProject\Passive Crossover for Home Theater\Main.asc
+
+.OP point found by inspection.
+
+Date: Sun Nov 18 04:27:36 2018
+Total elapsed time: 0.290 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 7670
+traniter = 7670
+tranpoints = 3836
+accept = 2481
+rejected = 1355
+matrix size = 14
+fillins = 0
+solver = Normal
+Matrix Compiler1: 474 bytes object code size  0.1/0.1/[0.0]
+Matrix Compiler2: 846 bytes object code size  0.1/0.1/[0.1]
+
